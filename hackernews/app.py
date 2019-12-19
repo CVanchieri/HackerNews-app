@@ -1,6 +1,4 @@
-
-from .models import 
-
+"""Functions and Routes for the app"""
 # fucntion to create app.
 def create_app():
     app = Flask(__name__)
